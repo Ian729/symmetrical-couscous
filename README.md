@@ -18,28 +18,7 @@ Or just do in the manual way:
 - Change the scheduling time on file [autocommit.yml, line 10](https://github.com/mazipan/auto-commit/blob/master/.github/workflows/autocommit.yml#L10). You can use [crontab.guru](https://crontab.guru/) if you are not familiar with the cron schedule string. For first time, you can try to run it in every hour with string `1 * * * *` .
 - Consider to support me, at least click the 🌟 button
 
-## Article (in Bahasa Indonesia)
-
-- https://mazipan.space/membuat-commit-otomatis-ke-github/
-
-## Repo using this auto-commit
-
-- You can add your repo here
-
-
 ## Credits
 
 - [Github Actions](https://github.com/features/actions)
 - [ad-m/github-push-action](https://github.com/ad-m/github-push-action)
-
-## Consider to Support
-
-- 👉 🇮🇩 [Trakteer](https://trakteer.id/mazipan?utm_source=github)
-- 👉 🌍 [BuyMeACoffe](https://www.buymeacoffee.com/mazipan?utm_source=github)
-- 👉 🌍 [Paypal](https://www.paypal.me/mazipan?utm_source=github)
-- 👉 🌍 [Ko-Fi](https://ko-fi.com/mazipan)
-
----
-
-© 2020 Crafted by Irfan Maulana
-
